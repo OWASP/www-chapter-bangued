@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Excel Philip Guidang](mailto:excel.guidang@owasp.org)
+* [Joventino T Trinidad](mailto:joventino.trinidad@owasp.org)
